@@ -1,0 +1,5 @@
+101 Single 1000 0 -
+102 Double 1500 1 Adarsh
+103 Deluxe 2000 1 Hruda
+104 Single 1000 1 Naman
+105 Double 1500 0 -
