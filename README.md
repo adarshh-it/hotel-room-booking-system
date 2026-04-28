@@ -101,3 +101,5 @@ This project is developed as a **mini project for learning C++ programming conce
 ## 👨‍💻 Author
 
 Adarsh Singh
+Shruti Tripathi
+Utkarsh Yadava
