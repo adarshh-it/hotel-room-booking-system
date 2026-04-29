@@ -1,5 +1,0 @@
-101 Single 1000 0 -
-102 Double 1500 0 -
-103 Deluxe 2000 0 -
-104 Single 1000 0 -
-105 Double 1500 0 -
