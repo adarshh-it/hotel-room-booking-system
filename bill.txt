@@ -1,6 +1,6 @@
 ----- HOTEL BILL -----
-Room: 104
-Customer: Naman
+Room: 103
+Customer: shruti
 Days: 5
 Price/Day: 1000
 Total: 5000
